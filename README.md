@@ -3,7 +3,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://islandskan-unit-converter.netlify.app/" target="_blank>
+    <a href="https://islandskan-unit-converter.netlify.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
